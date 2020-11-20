@@ -1,0 +1,63 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:anima10@anima10 net
+N:net;anima10@anima10;;;
+EMAIL;TYPE=INTERNET:anima10@anima10.net
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Filipe Nunnes
+N:Nunnes;Filipe;;;
+EMAIL;TYPE=INTERNET:filipenunnes@gmail.com
+EMAIL;TYPE=INTERNET:filipenunnes@hotmail.com
+BDAY:19920609
+item1.URL:http\://www.google.com/profiles/104677795639737254302
+item1.X-ABLabel:PROFILE
+PHOTO:https://lh6.googleusercontent.com/-rZkMEUuHSvo/VfKtd5TQIGI/AAAAAAAAAA
+ A/bUNtgtzzD5o14QloIPbLqy8aSpAn_I7PgCOQCEAE/photo.jpg
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:joão pedro morand
+N:morand;joão;pedro;;
+EMAIL;TYPE=INTERNET:joaopmorand@gmail.com
+EMAIL;TYPE=INTERNET:joaopmorand@hotmail.com
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:joaopmorand@hotmail com
+N:com;joaopmorand@hotmail;;;
+EMAIL;TYPE=INTERNET:joaopmorand@hotmail.com
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ricardo Rebello Sierra
+N:Sierra;Ricardo;Rebello;;
+EMAIL;TYPE=INTERNET:sierra.csi2@gmail.com
+TEL;TYPE=CELL:999193898
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ricardo Sierra
+N:Sierra;Ricardo;;;
+EMAIL;TYPE=INTERNET:sierra.csi@gmail.com
+item1.EMAIL;TYPE=INTERNET:sierracsi@gmail.com
+item1.X-ABLabel:
+TEL;TYPE=CELL:0 (21) 999193898
+item2.URL:http\://www.google.com/profiles/116234276816729696188
+item2.X-ABLabel:PROFILE
+ROLE:PHP Free Lancer
+NOTE:Gender: Male
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:sierra_csi@hotmail com
+N:com;sierra_csi@hotmail;;;
+EMAIL;TYPE=INTERNET:sierra_csi@hotmail.com
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:suporte@anima10 net
+N:net;suporte@anima10;;;
+EMAIL;TYPE=INTERNET:suporte@anima10.net
+END:VCARD

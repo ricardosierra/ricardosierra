@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Bruno Veloso Lattari
+N:Lattari;Bruno;Veloso;;
+item1.EMAIL;TYPE=INTERNET:letrasmu@yahoo.com.br
+item1.X-ABLabel:
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:contato@jogue net
+N:net;contato@jogue;;;
+EMAIL;TYPE=INTERNET:contato@jogue.net
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Nicolas
+N:;Nicolas;;;
+item1.EMAIL;TYPE=INTERNET:contato@oficinadanet.com.br
+item1.X-ABLabel:
+END:VCARD
