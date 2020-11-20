@@ -31,7 +31,7 @@ I started programming with a very strong enthusiasm for ideas and dreams. I've a
 
 ➢ Development of teams, working in hiring and training routines, forming high performance professionals and with the company's objectives. Restructuring of the IT department, performing activity planning, localization, definition and implementation of norms, standards and procedures, optimizing routines, low efficiency and speeding up the processes quality in the area.
 
-V Extensive experience of over 15 years as a full content programmer across multiple languages ​​from different programming paradigms. Emphasizes more on php, javascript, python and ruby.
+V Extensive experience of over 20 years as a full content programmer across multiple languages ​​from different programming paradigms. Emphasizes more on php, javascript, python and ruby.
 
 Poss Also have experience in infra, linux environments, aws. I am adept at the dockerization of which I was an evangelizer for a long time. I also like tools like terraform and kubernetes.
 
