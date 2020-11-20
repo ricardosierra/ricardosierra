@@ -21,7 +21,7 @@ Eu comecei a programar graças a um entusiasmo muito forte que tenho com idéias
 
 ➢	Desenvolvimento de equipes, atuando em rotinas de contratação e treinamento, formando profissionais de alta performance e alinhados aos objetivos da empresa. Reestruturação do departamento de TI, realizando o planejamento de atividades, especificação, definição e implantação de normas, padrões e procedimentos, otimizando rotinas, reduzindo custos e assegurando a qualidade e agilidade nos processos da área.
 
-➢	Vasta experiência de mais de 15 anos como programador fullstack passando por diversas linguagens de diferentes paradigmas de programação tendo um foco atualmente maior em php, javascript, python e ruby.
+➢	Vasta experiência como programador fullstack iniciando meu conhecimento com logica de programação em 99, passando por diversas linguagens de diferentes paradigmas de programação tendo um foco atualmente maior em php, javascript, python e ruby.
 
 ➢	Também possuo experiência em infra, ambientes linux, aws. Sou adepto da dockerização a qual fui evangelizador por longo tempo. Tambem gosto de ferramentas como terraform e kubernetes.
 
@@ -102,6 +102,7 @@ Eu era bem novo quando fui abortado dentro de uma lanhouse que eu passava o temp
 
 # Formação academica e pretensão salarial
 
-Engenharia de Computação Incompleto na Puc-rio
+Engenharia de Computação Ciclo Basico somente na Puc-rio (2010-2012.1)
+Engenharia de Computação Incompleto na Veiga de Almeida (2012.2 - )
 2007 - Curso de férias de C na puc
 1996-2009 - Colégio Santo Inácio até o 2 ano do ensino médio.
