@@ -32,9 +32,18 @@ Eu comecei a programar graças a um entusiasmo muito forte que tenho com idéias
 
 # Experiência profissional
 
+## Desenvolvedor de Software na StopClub
+
+- Sobre o StopClub
+A mobilidade urbana e a estrutura física das grandes cidades passam por grandes mudanças. Uma nova força de trabalhadores itinerantes emergiu nessa onda e não para de crescer. Nosso propósito é melhorar a vida de quem trabalha dirigindo pela cidade e fortalecer essa comunidade com um plano de assinatura que inclui benefícios, descontos e acessos à estacionamentos pela cidade. Fomos investidos por grandes VCs como Canary e Redpoint, e selecionados nos programas de aceleração da LIGA AutoTech e BNDES Garagem. 
+
+Período: agosto de 2019 – agosto de 2020
+
+Sistema backend em nodejs com banco de dados mongodb. O dashboard para os admin e o dashboard para o estacionamento foram desenvolvimentos em react e o aplicativo para os motoristas em flutter
+
 ## CTO na Bilo Tecnologia
 
-Período: agosto de 2017 – o momento
+Período: agosto de 2017 – junho de 2019
 
 Sistema para gestão de eventos de forma automatizada. Infraestrutura com autoscaling da amazon, docker, mysql, ruby, python, java para android e object c além do site institucional em php.
 
