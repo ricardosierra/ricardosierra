@@ -1,4 +1,4 @@
-Ricardo Rebello Sierra (28 anos)
+Ricardo Rebello Sierra (29 anos)
 ==============
 
 (21)99919-3898 | (21)2428-3883
@@ -82,7 +82,9 @@ Período: abr de 2010 – ago de 2013
 
 Em 2010 criei um protótipo de um sistema de musica, redesocial e loja virtual integrados com um sistema de gamificação, a versão inicial foi apresentada em uma singlepage em html e javascript com uma api em php5. Eu e mais um socio fomos atrás de investidores com esse protótipo em mãos e conseguimos diversas rodadas de financiamento, logo após o primeiro aporte financeiro alugamos um apartamento, compramos computadores e montamos uma equipe com processos interno e um kamban usando post'its na parede. Ao longo dos anos tivemos diversos problemas e contratempos desde problemas de performance, escalabilidade chegando a tentativas diárias de ataques virtuais. Em 2012 tinhamos em nossa equipe um programador que programava apenas em javascript e também um DBA que apenas trabalhava nas querys que chegavam a ultrapassar 30 segundos. O aplicativo teve 9 versões montadas pela equipe de produtos e depois desenvolvidas no modelo fail fast antes de abandonarmos o projeto.
 
-![ Imagens em anexo - Jornal o Globo - MusicX](./images/musicx_1vezjornal.jpg)
+![ Imagens em anexo - Jornal o Globo - MusicX](./assets/musicx/musicx_1vezjornal.jpg)
+![ Imagens em anexo - MusicX](./assets/musicx/received_917541754935728.jpeg)
+[Ver mais detalhes](./src/musicx.md)
 
 ## Programador Freelancer
 
