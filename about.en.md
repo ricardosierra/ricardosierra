@@ -1,13 +1,12 @@
-Ricardo Rebello Sierra (28 years old)
+Ricardo R Sierra (29 years old)
 ==============
 
 (21) 99919-3898 | (21) 2428-3883
-contato@ricardosierra.com.br
+sierra.csi@gmail.com
 Pacheco Leão Street, 174, Botanical Garden, 22460-030, Rio de Janeiro - RJ
 
-http://ricardosierra.com.br
 https://www.linkedin.com/in/ricardorsierra/
-https://github.com/ricardorsierra
+https://github.com/ricardosierra
 
 # Academic background and wage claim
 

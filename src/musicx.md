@@ -1,2 +1,2 @@
-Ricardo Rebello Sierra (28 anos)
+Ricardo R Sierra (28 anos)
 ==============
