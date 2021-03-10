@@ -8,9 +8,7 @@ Rua Pacheco Leão, 174, Jardim Botânico, 22460-030, Rio de Janeiro – RJ
 https://www.linkedin.com/in/ricardorsierra/
 https://github.com/ricardosierra
 
-# História
 
-Eu comecei a programar graças a um entusiasmo muito forte que tenho com idéias e sonhos. Sempre tive muitas idéias, criatividade e uma cabeça fora da caixa, minha primeira onda de entusiasmo foi com idéias de jogos de ação e mundo aberto. Esse sonho me fez conhecer o RPG Maker, programa para construção de rpg que me fez iniciar no mundo da programação (possuia uma linguagem interna orientada a eventos). Com o tempo tive diversos projetos que me fizeram mergulhar cada vez mais nesse mundo de tecnologia, sendo o mais notório um portal de piadas, videos, e jogos em flash chamado anima10. Em um segundo estágio eu abandonei as idéias de jogos me focando na parte de dados, hacking e cyberataques, dessa forma tive acesso a muito código de terceiros desenvolvidos de todas as formas e zero preconceito com novas linguagens e sistemas de computação. Hoje meu entusiasmo está se tornando cada vez mais um avanço do movimento opensource e cypherpynk estudando muito sobre blockchain e sistemas de consenso descentralizado.
 
 # Carreira
 
@@ -31,7 +29,16 @@ Eu comecei a programar graças a um entusiasmo muito forte que tenho com idéias
 
 # Experiência profissional
 
+## Programador Freelancer
+
+Nome da empresa: Freelancer Rio de Janeiro
+Período: ago de 2020 – o momento
+Localidade: Rio de Janeiro e Região, Brasil
+
+Maioria dos trabalhos que venho pegando são focados no mercado financeiro.
+
 ## Desenvolvedor de Software na StopClub
+Período: set. de 2019 – out. de 2020 (1 ano 2 meses)
 
 - Sobre o StopClub
 A mobilidade urbana e a estrutura física das grandes cidades passam por grandes mudanças. Uma nova força de trabalhadores itinerantes emergiu nessa onda e não para de crescer. Nosso propósito é melhorar a vida de quem trabalha dirigindo pela cidade e fortalecer essa comunidade com um plano de assinatura que inclui benefícios, descontos e acessos à estacionamentos pela cidade. Fomos investidos por grandes VCs como Canary e Redpoint, e selecionados nos programas de aceleração da LIGA AutoTech e BNDES Garagem. 
